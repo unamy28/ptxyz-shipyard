@@ -1,0 +1,57 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+body {
+  background-image: url(asset/bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.login {
+  height: 100vh;
+}
+.login-right {
+  background-color: #ffffff;
+}
+.header h1 {
+  text-align: center;
+  margin-top: 217px;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 24px;
+  /* identical to box height, or 30% */
+  color: #3f9fdf;
+}
+.form-header h3 {
+  margin-top: 100px;
+  text-align: center;
+  margin-bottom: 37px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 24px;
+  /* identical to box height, or 67% */
+
+  color: #f29f64;
+}
+.txt {
+  margin-top: 20px;
+  background: #ffffff;
+  border: 2px solid #000000;
+  border-radius: 21px;
+}
+
+.login-btn {
+  margin: 128px;
+  text-align: center;
+  margin-top: 59px;
+  background-color: #6694ef;
+
+  font-style: italic;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 24px;
+  /* identical to box height, or 75% */
+
+  color: #ffffff;
+}
